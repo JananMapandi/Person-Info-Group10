@@ -1,4 +1,4 @@
-### v1.2.0 - [March 18,2026] - November 15,2012.
+### v1.2.0 - [March 18,2026] - Added birth math.
 (@LaBreeParel2026)
 ### v1.0.0 - [March 18, 2026] - Added name input.
 (@JananMapandi)
